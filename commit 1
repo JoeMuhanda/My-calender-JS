@@ -1,6 +1,4 @@
 
-
-
 def showCal():
 
     if(year_field.get() != ""):
